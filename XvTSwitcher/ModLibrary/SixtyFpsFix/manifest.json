@@ -1,0 +1,9 @@
+{
+  "manifest": {
+    "targetDirectory": ".\\",
+    "files": [
+      "dinput.dll",
+      "Hook_60FPS.dll"
+    ]
+  }
+}

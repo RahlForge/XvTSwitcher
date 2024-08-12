@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "targetDirectory": ".\\",
+    "files": [
+      "ddraw.cfg",
+      "ddraw.dll",
+      "nopowervr.txt"
+    ]
+  }
+}

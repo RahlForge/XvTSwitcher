@@ -1,0 +1,62 @@
+[
+  {    
+    "targetDirectory": "./CAMPAIGN",
+    "lsts": [
+      {        
+        "name": "campaign1",
+        "missionCount": "15",
+        "headers": [
+          {
+            "missions": [
+              {
+                "filename": "8XICW01.tie"
+              },
+              {
+                "filename": "8XICW02.tie"
+              }
+            ]
+          }
+        ],
+        "descriptionText": [
+          " We have valiantly driven the traitorous forces of the Rebellion into retreat among the Outer Rim Territories. The defeated Rebels hope to elude us there in the smuggler- and pirate-infested Airam Sector. We must continue our pursuit and finish off the Alliance once and for all. Above all, we must ensure that they are unable to establish a new base of operations from which to continue spreading their sedition.",
+          " Emperor Palpatine has ordered Task Force Vengeance to carry out this campaign. Commanded by Admiral Senn aboard his flagship Super Star Destroyer Vengeance, this task force will consist of several Star Destroyers as well as numerous frigates, cruisers and support ships. Leading the task force is Imperial Star Destroyer Rage and the elite Avenger Squadron!"
+        ]
+      },
+      {
+        "name": "rebel",
+        "headers": [
+          {
+            "headerText": "Rebel Campaign",
+            "missions": [
+              {
+                "id": "1",
+                "filename": "campgn2.lst",
+                "name": "Spreading the Rebellion"
+              }
+            ]
+          }
+        ]
+      }
+    ]    
+  },
+  {    
+    "targetDirectory": "./COMBAT",
+    "lsts": [
+      {
+        "name": "imperial",
+        "headers": [
+          {
+            "headerText": "Balance of Power",
+            "missions": [
+              {
+                "id": "16",
+                "filename": "8BRAW10.tie",
+                "name": "Attack on Imperial Convoy near Mylok"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }  
+]
