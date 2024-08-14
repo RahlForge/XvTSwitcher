@@ -1,6 +1,6 @@
 [
   {    
-    "targetDirectory": "./CAMPAIGN",
+    "targetDirectory": "CAMPAIGN",
     "lsts": [
       {        
         "name": "campaign1",
@@ -40,7 +40,7 @@
     ]    
   },
   {    
-    "targetDirectory": "./COMBAT",
+    "targetDirectory": "COMBAT",
     "lsts": [
       {
         "name": "imperial",
