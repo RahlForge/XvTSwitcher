@@ -8,8 +8,8 @@ namespace XvTSwitcher.Manifests.Interfaces
 {
   public interface IMission
   {
-    string ID { get; }
+    string? ID { get; }
     string Filename { get; }
-    string Name { get; }
+    string? Name { get; }
   }
 }

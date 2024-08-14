@@ -9,7 +9,7 @@ namespace XvTSwitcher.Manifests.Models
 {
   public class LstModel : ILst
   {
-    public string Name { get; protected set; } = "";
+    public string Name { get; protected set; } = string.Empty;
 
     public string? MissionCount { get; protected set; }
 

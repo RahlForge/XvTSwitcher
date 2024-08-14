@@ -8,7 +8,7 @@ namespace XvTSwitcher.Manifests.Interfaces
 {
   public interface IHeader
   {
-    string HeaderText { get; }
+    string? HeaderText { get; }
     List<IMission> Missions { get; }
   }
 }
